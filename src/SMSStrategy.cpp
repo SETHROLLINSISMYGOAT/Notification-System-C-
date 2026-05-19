@@ -1,4 +1,3 @@
-#pragma once
 #include "NotificationStrategy.h"
 
 class SMSStrategy : public NotificationStrategy {

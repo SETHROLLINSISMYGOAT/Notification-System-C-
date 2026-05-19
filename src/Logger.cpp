@@ -1,4 +1,3 @@
-#pragma once
 #include "Observer.h"
 
 class Logger : public Observer {

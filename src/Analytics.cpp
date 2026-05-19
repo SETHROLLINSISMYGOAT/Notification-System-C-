@@ -1,4 +1,3 @@
-#pragma once
 #include "Observer.h"
 
 class Analytics : public Observer {
